@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/venv,images,pycharm
-# Edit at https://www.gitignore.io/?templates=venv,images,pycharm
+# Created by https://www.gitignore.io/api/vue,venv,images,pycharm
+# Edit at https://www.gitignore.io/?templates=vue,venv,images,pycharm
 
 ### Images ###
 # JPEG
@@ -175,4 +175,20 @@ env.bak/
 venv.bak/
 pip-selfcheck.json
 
-# End of https://www.gitignore.io/api/venv,images,pycharm
+### Vue ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_componets
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.gitignore.io/api/vue,venv,images,pycharm
