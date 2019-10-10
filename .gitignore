@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/vue,venv,images,pycharm
 # Edit at https://www.gitignore.io/?templates=vue,venv,images,pycharm
 
+###.DS_Store###
+.DS_Store
+
 ### Images ###
 # JPEG
 *.jpg
